@@ -96,7 +96,7 @@ The `process` object has the following methods:
 
 ### `process.crash()`
 
-Causes the main thread of the current process crash.
+Causes the main thread of the current process to crash.
 
 ### `process.getCPUUsage()`
 
@@ -140,7 +140,7 @@ that all statistics are reported in Kilobytes.
 
 ### `process.hang()`
 
-Causes the main thread of the current process hang.
+Causes the main thread of the current process to hang.
 
 ### `process.setFdLimit(maxDescriptors)` _macOS_ _Linux_
 
